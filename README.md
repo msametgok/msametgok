@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mehmet Samet.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Node.js
+- 📫 Mail me : msametgok@hotmail.com
